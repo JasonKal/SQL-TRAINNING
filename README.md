@@ -1,0 +1,2 @@
+# SQL-TRAINNING
+SQL Trainning at MVA
